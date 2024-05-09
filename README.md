@@ -9,7 +9,7 @@
 
 > ⭐ A daily update on my Github is always the norm and the passion for me, pushing one commit at a time.
 
-> 🎁 If you mind to Buy me coffee 😎🥤
+> 🎁 If you do not mind, you can as well Buy me coffee 😎🥤
 
 > 🤙 Of course am a Nigerian 🎆! We code everyday!!
 
