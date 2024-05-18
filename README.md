@@ -13,7 +13,7 @@
 
 > 🚀 Am a frontend developer and a lover of backend technology from Lagos State, Nigeria.
 
->  ✌ I work also as a product Designer
+>  ✌ I work also as a Product Designer 
 
 > 🎮 Am a big fan of playing soccer (eFootball) and action 😎 games.
 
