@@ -1,6 +1,6 @@
 ﻿
 <h1 align="center">✨ Hi there, Meet Ezrah</h1>
-<span align="center">Pushing a commit at a time</span>
+<p align="center">Pushing a commit at a time</p>
 
 <div align="center">
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
