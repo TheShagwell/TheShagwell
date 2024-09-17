@@ -3,6 +3,7 @@
 <p align="center">Pushing a commit at a time everyday</p>
 
 <div align="center">
+    <h6>My Prowess</h6>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-Angular-black?style=for-the-badge&logoColor=white&logo=angular&color=C3002F" alt="angular" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
@@ -13,11 +14,11 @@
 
   <br/>
 
-> 🚀 Am a frontend developer and a lover of backend technology from Lagos State, Nigeria.
+> 🚀 Am a frontend developer and a lover of backend development from Lagos State, Nigeria.
 
->  ✌ I work also as a Product Designer with 5years Experience on building user-centric solutions
+>  ✌ I work also as a Product Designer with 5years+ Experience on building user-centric solutions
 
-> 🎮 Am a big fan of playing soccer (eFootball) and action 😎 games.
+> 🎮 Am a big fan of playing soccer (eFootball), FIFA and action 😎 games.
 
 > ⭐ A daily update on my Github is always the norm and the passion for me, pushing one commit at a time.
 
