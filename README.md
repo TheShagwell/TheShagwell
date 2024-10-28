@@ -1,6 +1,6 @@
 ﻿
 <h1 align="center">✨ Hi there, Meet Ezrah</h1>
-<p align="center">Pushing a commit at a time everyday</p>
+<p align="center">Pushing one commit at a time everyday</p>
 
 <div align="center">
     <h6>My Repositories contains the following languages and more, feel free to walk around it</h6>
