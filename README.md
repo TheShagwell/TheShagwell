@@ -29,8 +29,6 @@
 
 > 🤙 Of course am a Nigerian 🎆! We code everyday!!
 
-> 👏 Fun fact about me is that, my friends call me "Shagwell", "Ezrah". Let me know what "[?name?]" you have for me😁
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TheShagwell&label=Profile%20views&color=111111&style=flat" alt="TheShagwell" /> </p>
 
 
