@@ -3,11 +3,6 @@
 <p align="center">Pushing one commit at a time everyday</p>
 
 <div align="center">
-    <h6>My Repositories contains the following languages and more, feel free to walk around it</h6>
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logoColor=23F7DF1E&logo=javascript&color=323330" alt="javascript" />
-    <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=101010" alt="reactnative" />
     <img src="https://img.shields.io/badge/-Angular-black?style=for-the-badge&logoColor=white&logo=angular&color=C3002F" alt="angular" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
   </div>
