@@ -27,17 +27,13 @@
 
   <br/>
 
-> 🚀 Am a frontend developer and a lover of backend development from Lagos State, Nigeria.
+> 👋 Welcome! I'm a Product Designer with a strong foundation in software engineering with over 5 years of experience—dedicated to crafting user-centered digital solutions that marry functionality with aesthetics. 
+> 
+> My work bridges design and development, leveraging expertise in frontend and backend stacks to deliver scalable, impactful projects. Here, you'll find a collection of thoughtfully engineered projects that prioritize usability, performance, and clean code.
 
->  ✌ I work also as a Product Designer with 5years+ Experience on building user-centric solutions
+<p align="left"> <a href="https://linkedin.com/in/ezra_erewharighe" target="blank"><img src="https://img.shields.io/twitter/follow/ezra_erewharighe?logo=linkedin&style=for-the-badge" alt="ezra_erewharighe" /></a> </p>
+<p align="left"> <a href="https://x.com/ezraezrah_" target="blank"><img src="https://img.shields.io/twitter/follow/ezraezrah_?logo=X&style=for-the-badge" alt="ezraezrah_" /></a> </p>
 
-> 🎮 Am a big fan of playing soccer (eFootball), FIFA and action 😎 games.
-
-> ⭐ A daily update on my Github is always the norm and the passion for me, pushing one commit at a time.
-
-> 🎁 If you do not mind, you can as well Buy me coffee 😎🥤
-
-> 🤙 Of course am a Nigerian 🎆! We code everyday!!
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TheShagwell&label=Profile%20views&color=111111&style=flat" alt="TheShagwell" /> </p>
 
@@ -49,8 +45,6 @@
 | --- | --- |
 | ![IhrUsername's github stats](https://github-readme-stats.vercel.app/api?username=TheShagwell&rank_icon=github&show_icons=true&theme=shades-of-purple&count_private=true) | ![IhrUsername's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShagwell&show_icons=true&theme=shades-of-purple&count_private=true&layout=compact) |
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheShagwell&theme=shades-of-purple&hide_border=false)<br/>
-Follow me on 
-<p align="left"> <a href="https://twitter.com/ezraezrah_" target="blank"><img src="https://img.shields.io/twitter/follow/ezraezrah_?logo=twitter&style=for-the-badge" alt="ezraezrah_" /></a> </p>
 
 
 ##### TheShagwell Did This! 🐱‍👤
