@@ -27,7 +27,7 @@
 
   <br/>
 
-> 👋 Welcome! I'm a Product Designer with a strong foundation in software engineering with over 5 years of experience—dedicated to crafting user-centered digital solutions that marry functionality with aesthetics. 
+> 👋 Welcome, Ezrah here! I'm a Product Designer with a strong foundation in software engineering with over 5 years of experience—dedicated to crafting user-centered digital solutions that marry functionality with aesthetics. 
 > 
 > My work bridges design and development, leveraging expertise in frontend and backend stacks to deliver scalable, impactful projects. Here, you'll find a collection of thoughtfully engineered projects that prioritize usability, performance, and clean code.
 
@@ -41,8 +41,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheShagwell" alt="TheShagwell Photo" /></a> </p>
 
 ## 📈 Quick stats about me
-| Github Stats | Top Languages |
-| --- | --- |
+| Github Stats                                                                                                                                                              | Top Languages                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![IhrUsername's github stats](https://github-readme-stats.vercel.app/api?username=TheShagwell&rank_icon=github&show_icons=true&theme=shades-of-purple&count_private=true) | ![IhrUsername's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShagwell&show_icons=true&theme=shades-of-purple&count_private=true&layout=compact) |
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheShagwell&theme=shades-of-purple&hide_border=false)<br/>
 
