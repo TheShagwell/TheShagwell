@@ -38,7 +38,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TheShagwell&label=Profile%20views&color=111111&style=flat" alt="TheShagwell" /> </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheShagwell" alt="TheShagwell Photo" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheShagwell" alt="Ezrah Photo" /></a> </p>
 
 ## 📈 Quick stats about me
 | Github Stats                                                                                                                                                              | Top Languages                                                                                                                                                                       |
