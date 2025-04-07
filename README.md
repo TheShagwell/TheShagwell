@@ -1,6 +1,6 @@
 ﻿
 <h1 align="center">✨ Hi there, Meet Ezrah</h1>
-<p align="center">One commit at a time, everyday</p>
+<p align="center">One commit at a time, everyday.</p>
 
 <div align="center">
 
