@@ -42,7 +42,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheShagwell" alt="Ezrah Photo" /></a> </p>
 
 ## 📈 Quick stats about me
-| Github Stats                                                                                                                                                              | Top Languages                                                                                                                                                                       |
+| Github Stats                                                                                                                                                              | Top Rated Languages                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![IhrUsername's github stats](https://github-readme-stats.vercel.app/api?username=TheShagwell&rank_icon=github&show_icons=true&theme=shades-of-purple&count_private=true) | ![IhrUsername's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShagwell&show_icons=true&theme=shades-of-purple&count_private=true&layout=compact) |
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheShagwell&theme=shades-of-purple&hide_border=false)<br/>
