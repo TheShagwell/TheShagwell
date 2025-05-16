@@ -36,6 +36,7 @@
 <p align="left"> <a href="https://x.com/ezraezrah_" target="blank"><img src="https://img.shields.io/twitter/follow/ezraezrah_?logo=X&style=for-the-badge" alt="ezraezrah_" /></a> </p>
 
 `CTRL + COPY - MY REPO`
+`PLEASE STAR MY REPOSITORIES`
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TheShagwell&label=Profile%20views&color=111111&style=flat" alt="TheShagwell" /> </p>
 
