@@ -29,8 +29,8 @@
   <br/>
 
 > 👋 Hello there, Ezrah here! I'm a Software Engineering and a Product Designer with over 5 years of experience—dedicated to crafting user-centered digital solutions that marry functionality with aesthetics. 
-> 
-> My work bridges design and development, leveraging expertise in frontend and backend stacks to deliver scalable, impactful projects. Here, you'll find a collection of thoughtfully engineered projects that prioritize usability, performance, and clean code.
+> My work bridges design and development, leveraging expertise in frontend and backend stacks to deliver scalable, impactful projects.
+> Here, you'll find a collection of thoughtfully engineered projects that prioritize usability, performance, and clean code.
 
 <p align="left"> <a href="https://linkedin.com/in/ezra_erewharighe" target="blank"><img src="https://img.shields.io/twitter/follow/ezra_erewharighe?logo=linkedin&style=for-the-badge" alt="ezra_erewharighe" /></a> </p>
 <p align="left"> <a href="https://x.com/ezraezrah_" target="blank"><img src="https://img.shields.io/twitter/follow/ezraezrah_?logo=X&style=for-the-badge" alt="ezraezrah_" /></a> </p>
