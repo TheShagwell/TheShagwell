@@ -41,6 +41,8 @@
 > CHECK OUT MY REPOSITORIES FOR NEW CONTENT/CODE DEVELOPMENTS ALWAYS
 
 > PLEASE STAR ⭐ MY REPOSITORIES
+
+> GOAL: BUILD AND DEVELOP TO BE BETTER THAN YESTERDAY
 ```
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TheShagwell&label=Profile%20views&color=111111&style=flat" alt="TheShagwell" /> </p>
