@@ -2,7 +2,7 @@
 <h1 align="center">✨ Hi there, Meet Ezrah</h1>
 <p align="center">One commit at a time, everyday.</p>
 
---
+---
 
 ### 🚀 Frontend Stacks
 
@@ -15,7 +15,7 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
---
+---
 
 ### 🛠️ Backend Stacks
 
