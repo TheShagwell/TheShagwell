@@ -59,8 +59,10 @@
 > PLEASE STAR ⭐ MY REPOSITORIES
 
 > GOAL: BUILD AND DEVELOP TO BE BETTER THAN YESTERDAY
+```
 
-> 👉 GOD IS THE GREATEST 👈🏾
+```bash
+👉 GOD IS THE GREATEST 👈🏾
 ```
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TheShagwell&label=Profile%20views&color=111111&style=flat" alt="TheShagwell" /> </p>
