@@ -44,6 +44,7 @@
 
 
 > 👋 Hello there, Ezrah here! 
+> 
 > I'm a Software Engineering and a Product Designer with over 5 years of experience—dedicated to crafting user-centered digital solutions that marry functionality with aesthetics. 
 > 
 > My work bridges design and development, leveraging expertise in frontend and backend stacks to deliver scalable, impactful projects.
