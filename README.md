@@ -54,10 +54,11 @@
 <p align="left"> <a href="https://linkedin.com/in/ezra_erewharighe" target="blank"><img src="https://img.shields.io/twitter/follow/ezra_erewharighe?logo=linkedin&style=for-the-badge" alt="ezra_erewharighe" /></a> </p>
 <p align="left"> <a href="https://x.com/ezraezrah_" target="blank"><img src="https://img.shields.io/twitter/follow/ezraezrah_?logo=X&style=for-the-badge" alt="ezraezrah_" /></a> </p>
 
+> PLEASE STAR ⭐ MY REPOSITORIES
+
 ```bash
 > CHECK OUT MY REPOSITORIES FOR NEW CONTENT/CODE DEVELOPMENTS ALWAYS
 
-> PLEASE STAR ⭐ MY REPOSITORIES
 
 > GOAL: BUILD AND DEVELOP TO BE BETTER THAN YESTERDAY
 ```
